@@ -32,4 +32,3 @@ En esta sección se creo una animacion que cambia el color de un cuadrado cuando
 #Ejecutar#
 Para ver la página puede:
 1-Descargar el archivo .html y abrirlo con un navegador
-2-Acceder por el link:
